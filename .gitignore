@@ -1,0 +1,9 @@
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+.editorconfig
+.env.example
+artisan
+webpack.mix.js
